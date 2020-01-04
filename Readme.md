@@ -21,3 +21,7 @@
 #### CIDR
 - https://docs.netgate.com/pfsense/en/latest/book/network/cidr-summarization.html
 
+## Kubernetes
+
+#### CDR
+- https://itnext.io/building-your-own-kubernetes-crds-701de1c9a161
