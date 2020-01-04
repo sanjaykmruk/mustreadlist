@@ -19,4 +19,6 @@
 - https://www.nginx.com/resources/glossary/layer-4-load-balancing/
 - https://freeloadbalancer.com/load-balancing-layer-4-and-layer-7/
 
+#### DNS
+- https://www.cloudflare.com/learning/dns/what-is-dns/
 
