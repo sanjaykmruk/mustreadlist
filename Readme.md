@@ -8,6 +8,9 @@
 
  - https://refactoring.com/catalog/
 
+#### Effective Incident Analysis
+
+- https://docs.google.com/presentation/d/1eLav2IjVuLKJ4SGCCY1UZI5MpAfK7wymNMTqC-Pyveg/edit#slide=id.p
 
 ### Networking
 
@@ -15,3 +18,5 @@
 
 - https://www.nginx.com/resources/glossary/layer-4-load-balancing/
 - https://freeloadbalancer.com/load-balancing-layer-4-and-layer-7/
+
+
