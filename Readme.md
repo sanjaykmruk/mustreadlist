@@ -28,6 +28,10 @@
 
 #### CKAD
 - https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
+- https://github.com/dgkanatsios/CKAD-exercises/blob/master/d.configuration.md
+- https://github.com/IBM/Scalable-WordPress-deployment-on-Kubernetes
+- https://killer.sh/
+- https://medium.com/@nassim.kebbani/how-to-beat-kubernetes-ckad-certification-c84bff8d61b1
 
 ## Docker
 
