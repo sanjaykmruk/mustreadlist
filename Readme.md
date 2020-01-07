@@ -25,3 +25,9 @@
 
 #### CDR
 - https://itnext.io/building-your-own-kubernetes-crds-701de1c9a161
+
+## Docker
+
+#### CMD vs ENTRYPOINT
+
+- https://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/
