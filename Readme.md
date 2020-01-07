@@ -31,3 +31,9 @@
 #### CMD vs ENTRYPOINT
 
 - https://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/
+
+
+## Python
+
+#### pipenv vs venv
+- https://www.activestate.com/blog/why-pipenv-venv/
