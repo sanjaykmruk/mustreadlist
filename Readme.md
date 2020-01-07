@@ -26,6 +26,9 @@
 #### CDR
 - https://itnext.io/building-your-own-kubernetes-crds-701de1c9a161
 
+#### CKAD
+- https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
+
 ## Docker
 
 #### CMD vs ENTRYPOINT
