@@ -39,6 +39,10 @@
 
 - https://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/
 
+## Docker Compose
+
+#### common mistake
+- https://runnable.com/blog/9-common-dockerfile-mistakes
 
 ## Python
 
