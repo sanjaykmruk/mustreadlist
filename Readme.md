@@ -44,6 +44,9 @@
 #### common mistake
 - https://runnable.com/blog/9-common-dockerfile-mistakes
 
+#### docker-compose vs docker stack
+- https://vsupalov.com/difference-docker-compose-and-docker-stack/
+
 ## Python
 
 #### pipenv vs venv
