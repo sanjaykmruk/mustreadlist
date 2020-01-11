@@ -32,6 +32,7 @@
 - https://github.com/IBM/Scalable-WordPress-deployment-on-Kubernetes
 - https://killer.sh/
 - https://medium.com/@nassim.kebbani/how-to-beat-kubernetes-ckad-certification-c84bff8d61b1
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 ## Docker
 
