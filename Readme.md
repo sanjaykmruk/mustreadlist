@@ -62,4 +62,5 @@
 
 ### JPA vs Hibernate vs Spring data Jpa
 - https://dzone.com/articles/what-is-the-difference-between-hibernate-and-sprin-1
+- https://stackoverflow.com/questions/3903477/difference-between-jta-jpa-and-plain-jdbc-in-hibernate
 
