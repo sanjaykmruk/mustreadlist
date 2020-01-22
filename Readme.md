@@ -60,4 +60,6 @@
 #### installing multiple version of java
 - https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions
 
+### JPA vs Hibernate vs Spring data Jpa
+- https://dzone.com/articles/what-is-the-difference-between-hibernate-and-sprin-1
 
