@@ -68,3 +68,10 @@
 ## Refactoring
 -https://www.methodsandtools.com/archive/archive.php?id=4
 
+## REST API's
+- https://github.com/WhiteHouse/api-standards
+- https://github.com/microsoft/api-guidelines
+- https://learning.oreilly.com/library/view/restful-web-apis/9781449359713/
+- https://leanpub.com/build-apis-you-wont-hate-2/
+- https://martinfowler.com/articles/richardsonMaturityModel.html
+
