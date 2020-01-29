@@ -75,3 +75,6 @@
 - https://leanpub.com/build-apis-you-wont-hate-2/
 - https://martinfowler.com/articles/richardsonMaturityModel.html
 
+## Agile tech comparison
+- https://manifesto.co.uk/kanban-vs-scrum-vs-xp-an-agile-comparison/
+
