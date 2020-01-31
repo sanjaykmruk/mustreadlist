@@ -78,3 +78,7 @@
 ## Agile tech comparison
 - https://manifesto.co.uk/kanban-vs-scrum-vs-xp-an-agile-comparison/
 
+## Monolith to microserices
+
+- [Strangler pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler)
+
