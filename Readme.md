@@ -1,5 +1,7 @@
 # This repo contains link of useful and interesting blogs in different categories.
 
+## Azure Kubernetes AKS
+- https://aksworkshop.io/
 
 ## Vulnerabilities
 - https://snyk.io/security-resources/cheat-sheet/
