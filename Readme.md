@@ -33,6 +33,7 @@
 - https://killer.sh/
 - https://medium.com/@nassim.kebbani/how-to-beat-kubernetes-ckad-certification-c84bff8d61b1
 - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+- https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681
 
 ## Docker
 
