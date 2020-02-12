@@ -83,3 +83,6 @@
 
 - [Strangler pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler)
 
+## Userful links to explore
+- https://free-for.dev/#/?id=table-of-contents
+- https://github.com/ramitsurana/awesome-kubernetes
