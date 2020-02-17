@@ -1,5 +1,9 @@
 # This repo contains link of useful and interesting blogs in different categories.
 
+
+## Serverless
+- https://serverless-stack.com/
+
 ## Event sourcing.
 
 - https://eventsourcery.com/
