@@ -1,9 +1,14 @@
 # This repo contains link of useful and interesting blogs in different categories.
 
+## Event sourcing.
+
+- https://eventsourcery.com/
+- https://github.com/keyvanakbary/cqrs-documents
+
 ## Azure Kubernetes AKS
 - https://aksworkshop.io/
 
-## Vulnerabilities
+## Vulnerabilities in your application
 - https://snyk.io/security-resources/cheat-sheet/
 
 ## Programming 
