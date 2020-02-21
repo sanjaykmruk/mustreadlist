@@ -3,6 +3,7 @@
 
 ## Serverless
 - https://serverless-stack.com/
+- https://github.com/anaibol/awesome-serverless
 
 ## Event sourcing.
 
