@@ -1,5 +1,7 @@
 # This repo contains link of useful and interesting blogs in different categories.
 
+# Practice your stuff
+- https://exercism.io/
 
 ## Serverless
 - https://serverless-stack.com/
