@@ -26,6 +26,9 @@
 #### Effective Incident Analysis
 - https://docs.google.com/presentation/d/1eLav2IjVuLKJ4SGCCY1UZI5MpAfK7wymNMTqC-Pyveg/edit#slide=id.p
 
+#### Trunk based development
+- https://www.youtube.com/watch?time_continue=650&v=h4DM-Wa0aDQ&feature=emb_logo
+
 ## Networking
 
 #### Layer 4 vs Layer 7
