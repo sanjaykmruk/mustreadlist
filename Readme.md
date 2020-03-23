@@ -106,3 +106,8 @@
 ## Userful links to explore
 - https://free-for.dev/#/?id=table-of-contents
 - https://github.com/ramitsurana/awesome-kubernetes
+
+## Spring 
+
+#### @Restcontroller (introduced in spring 4.0)  vs @Controller (part of spring mvc)
+- https://dzone.com/articles/spring-framework-restcontroller-vs-controller
