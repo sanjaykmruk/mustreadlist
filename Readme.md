@@ -116,3 +116,7 @@
 ## Linux
 
 - https://geek-university.com/register/ 
+
+## Interview prepration
+
+- https://www.interviewcake.com/
