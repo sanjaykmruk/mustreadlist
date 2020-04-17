@@ -120,3 +120,6 @@
 ## Interview prepration
 
 - https://www.interviewcake.com/
+
+## Examples codes
+- https://resources.oreilly.com/examples
