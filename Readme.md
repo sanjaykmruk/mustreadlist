@@ -123,3 +123,16 @@
 
 ## Examples codes
 - https://resources.oreilly.com/examples
+
+## DevOps
+
+- https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
+- https://www.linux.com/audience/devops/how-be-successful-devops-engineer/
+- https://www.techrepublic.com/article/how-to-become-a-devops-engineer-a-cheat-sheet/
+- https://hackernoon.com/the-must-know-checklist-for-devops-site-reliability-engineers-update-8ba44dbc824
+
+
+## SRE vs DevOps
+
+- https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends
+
