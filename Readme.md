@@ -136,3 +136,5 @@
 
 - https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends
 
+## PPT and Presentation
+- https://nodesign.dev/
