@@ -138,3 +138,5 @@
 
 ## PPT and Presentation
 - https://nodesign.dev/
+- https://thenounproject.com/
+- https://www.producthunt.com/
