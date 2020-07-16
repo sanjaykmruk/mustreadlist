@@ -131,6 +131,8 @@
 - https://www.techrepublic.com/article/how-to-become-a-devops-engineer-a-cheat-sheet/
 - https://hackernoon.com/the-must-know-checklist-for-devops-site-reliability-engineers-update-8ba44dbc824
 
+## Terminals
+-https://starship.rs/
 
 ## SRE vs DevOps
 
