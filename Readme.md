@@ -138,3 +138,4 @@
 
 ## PPT and Presentation
 - https://nodesign.dev/
+- https://blush.design
