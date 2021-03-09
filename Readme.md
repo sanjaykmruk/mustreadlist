@@ -135,6 +135,7 @@
 ## SRE vs DevOps
 
 - https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends
+- https://blog.balthazar-rouberol.com/preparing-the-sre-interview
 
 ## PPT and Presentation
 - https://nodesign.dev/
