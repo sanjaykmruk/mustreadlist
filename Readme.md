@@ -143,3 +143,6 @@
 
 ## Assessment
 - https://compass.codurance.com/?hss_channel=tw-1921539895
+
+## Running Session
+- https://www.canr.msu.edu/news/how-to-effectively-manage-the-talkative-and-silent-members-of-a-group
