@@ -146,3 +146,9 @@
 
 ## Running Session
 - https://www.canr.msu.edu/news/how-to-effectively-manage-the-talkative-and-silent-members-of-a-group
+
+## Team safety
+-  https://davidburkus.com/2021/03/how-to-create-psychological-safety-on-teams/
+
+## Running Sessions
+-  https://www.canr.msu.edu/news/how-to-effectively-manage-the-talkative-and-silent-members-of-a-group
