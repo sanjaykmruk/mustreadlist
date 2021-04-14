@@ -152,3 +152,4 @@
 
 ## Running Sessions
 -  https://www.canr.msu.edu/news/how-to-effectively-manage-the-talkative-and-silent-members-of-a-group
+-  http://seriouspony.com/blog
