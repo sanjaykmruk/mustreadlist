@@ -153,3 +153,6 @@
 ## Running Sessions
 -  https://www.canr.msu.edu/news/how-to-effectively-manage-the-talkative-and-silent-members-of-a-group
 -  http://seriouspony.com/blog
+
+## Shared Understanding
+- https://medium.com/distant-horizons/bdd-game-importance-of-shared-understanding-1fe7da70e759
