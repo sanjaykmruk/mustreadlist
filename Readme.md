@@ -156,3 +156,9 @@
 
 ## Shared Understanding
 - https://medium.com/distant-horizons/bdd-game-importance-of-shared-understanding-1fe7da70e759
+
+## Kata log
+- https://kata-log.rocks/bowling-game-kata
+
+## TDD
+- https://cloudnative.ly/which-order-to-write-your-tests-7ea2937761a1
