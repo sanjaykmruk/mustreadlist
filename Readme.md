@@ -168,3 +168,6 @@
 
 ## Three amigos
 - https://www.agilealliance.org/glossary/three-amigos
+
+## Mobbing or Pairing timer
+- https://agility.jahed.dev/
