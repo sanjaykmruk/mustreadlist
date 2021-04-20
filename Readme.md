@@ -162,3 +162,9 @@
 
 ## TDD
 - https://cloudnative.ly/which-order-to-write-your-tests-7ea2937761a1
+
+## Example mapping
+- https://cucumber.io/blog/bdd/example-mapping-introduction/
+
+## Three amigos
+- https://www.agilealliance.org/glossary/three-amigos
