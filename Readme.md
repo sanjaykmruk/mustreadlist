@@ -171,3 +171,7 @@
 
 ## Mobbing or Pairing timer
 - https://agility.jahed.dev/
+
+## Git commit message:
+- https://chris.beams.io/posts/git-commit/
+- https://www.conventionalcommits.org/en/v1.0.0/
