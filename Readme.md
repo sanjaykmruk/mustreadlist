@@ -176,3 +176,7 @@
 ## Git commit message:
 - https://chris.beams.io/posts/git-commit/
 - https://www.conventionalcommits.org/en/v1.0.0/
+
+## workshops
+- https://www.sessionlab.com/methods/team-canvas-session
+- https://www.fearlessculture.design/blog-posts/the-culture-design-canvas
