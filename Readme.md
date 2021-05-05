@@ -144,15 +144,14 @@
 ## Assessment
 - https://compass.codurance.com/?hss_channel=tw-1921539895
 
-## Running Session
-- https://www.canr.msu.edu/news/how-to-effectively-manage-the-talkative-and-silent-members-of-a-group
-
 ## Team safety
 -  https://davidburkus.com/2021/03/how-to-create-psychological-safety-on-teams/
 
 ## Running Sessions
 -  https://www.canr.msu.edu/news/how-to-effectively-manage-the-talkative-and-silent-members-of-a-group
 -  http://seriouspony.com/blog
+-  https://www.canr.msu.edu/news/how-to-effectively-manage-the-talkative-and-silent-members-of-a-group
+-  https://support.microsoft.com/en-us/office/rehearse-your-slide-show-with-presenter-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b
 
 ## Shared Understanding
 - https://medium.com/distant-horizons/bdd-game-importance-of-shared-understanding-1fe7da70e759
