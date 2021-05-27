@@ -140,6 +140,7 @@
 ## PPT and Presentation
 - https://nodesign.dev/
 - https://blush.design
+- https://thenounproject.com/search/?q=example
 
 ## Assessment
 - https://compass.codurance.com/?hss_channel=tw-1921539895
