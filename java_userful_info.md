@@ -2,4 +2,5 @@
 
 ## Bean validation
 
-Jakarta validation : https://beanvalidation.org/resources/
+Hibernate validation : https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#preface
+
