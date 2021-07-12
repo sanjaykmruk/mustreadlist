@@ -4,3 +4,5 @@
 
 Hibernate validation : https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#preface
 
+Useful reading for bean validation: https://www.baeldung.com/javax-validation
+
