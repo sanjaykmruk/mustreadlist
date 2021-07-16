@@ -7,5 +7,10 @@ Hibernate validation : https://docs.jboss.org/hibernate/stable/validator/referen
 Useful reading for bean validation: 
   - https://www.baeldung.com/javax-validation
   - https://reflectoring.io/bean-validation-with-spring-boot/
+  
+## Spring testing
+
+Useful readings:
+  - https://thepracticaldeveloper.com/guide-spring-boot-controller-tests/
 
 
